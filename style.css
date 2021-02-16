@@ -93,15 +93,15 @@ body {
 .footer a:visited {
   color: white;
 }
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
+/* @media only screen and (max-width: 768px) {
+  /* For mobile phones: 
   [class *="calculator"] {
     width: 100%;
   }
 }
 @media only screen and (max-width: 768px) {
-  /* For mobile phones: */
+  /* For mobile phones: *
   [class *="grid-container"] {
     width: 100%;
   }
-}
+} */
